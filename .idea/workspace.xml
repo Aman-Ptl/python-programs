@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c27afe1-1519-4687-bd6f-00a648c94544" name="Changes" comment="add new programs i learnt today">
-      <change afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functional_programming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,6 +153,7 @@
       <workItem from="1751262940801" duration="8928000" />
       <workItem from="1751349042880" duration="5264000" />
       <workItem from="1751367102838" duration="2597000" />
+      <workItem from="1751430247243" duration="1193000" />
     </task>
     <task id="LOCAL-00001" summary="add new programs i learnt today">
       <option name="closed" value="true" />

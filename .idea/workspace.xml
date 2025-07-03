@@ -43,60 +43,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Identity_Operator.executor": "Run",
-    "Python.bitwise_operator.executor": "Run",
-    "Python.elif.executor": "Run",
-    "Python.exception.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.file.executor": "Run",
-    "Python.file2.executor": "Run",
-    "Python.file3.executor": "Run",
-    "Python.file4.executor": "Run",
-    "Python.filter.executor": "Run",
-    "Python.for.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.function1.executor": "Run",
-    "Python.functional_programming.executor": "Run",
-    "Python.if-else.executor": "Run",
-    "Python.iterator_generator.executor": "Run",
-    "Python.lamda.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.list_2.executor": "Run",
-    "Python.local&global.executor": "Run",
-    "Python.love.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.map.executor": "Run",
-    "Python.membership_operator.executor": "Run",
-    "Python.module.executor": "Run",
-    "Python.practice.executor": "Run",
-    "Python.profit_loss.executor": "Run",
-    "Python.range.executor": "Run",
-    "Python.recursion.executor": "Run",
-    "Python.return.executor": "Run",
-    "Python.set.executor": "ConcurrencyExecutor",
-    "Python.string.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "Python.typecasting.executor": "Run",
-    "Python.while.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Pyhton_program",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Identity_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bitwise_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.elif.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functional_programming.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if-else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterator_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lamda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.local&amp;global.executor&quot;: &quot;Run&quot;,
+    &quot;Python.love.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.membership_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.profit_loss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.return.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set.executor&quot;: &quot;ConcurrencyExecutor&quot;,
+    &quot;Python.string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.typecasting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Pyhton_program&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyhton_program" />
@@ -152,7 +152,7 @@
       <workItem from="1751262940801" duration="8928000" />
       <workItem from="1751349042880" duration="5264000" />
       <workItem from="1751367102838" duration="2597000" />
-      <workItem from="1751430247243" duration="5464000" />
+      <workItem from="1751430247243" duration="5752000" />
     </task>
     <task id="LOCAL-00001" summary="add new programs i learnt today">
       <option name="closed" value="true" />

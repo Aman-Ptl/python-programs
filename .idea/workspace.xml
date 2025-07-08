@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c27afe1-1519-4687-bd6f-00a648c94544" name="Changes" comment="add new programs i learnt today" />
+    <list default="true" id="4c27afe1-1519-4687-bd6f-00a648c94544" name="Changes" comment="add new programs i learnt today">
+      <change afterPath="$PROJECT_DIR$/regex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,60 +46,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Identity_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bitwise_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.elif.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functional_programming.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if-else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.iterator_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lamda.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.local&amp;global.executor&quot;: &quot;Run&quot;,
-    &quot;Python.love.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.map.executor&quot;: &quot;Run&quot;,
-    &quot;Python.membership_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.profit_loss.executor&quot;: &quot;Run&quot;,
-    &quot;Python.range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.return.executor&quot;: &quot;Run&quot;,
-    &quot;Python.set.executor&quot;: &quot;ConcurrencyExecutor&quot;,
-    &quot;Python.string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.typecasting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Pyhton_program&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Identity_Operator.executor": "Run",
+    "Python.bitwise_operator.executor": "Run",
+    "Python.elif.executor": "Run",
+    "Python.exception.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.file.executor": "Run",
+    "Python.file2.executor": "Run",
+    "Python.file3.executor": "Run",
+    "Python.file4.executor": "Run",
+    "Python.filter.executor": "Run",
+    "Python.for.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.function1.executor": "Run",
+    "Python.functional_programming.executor": "Run",
+    "Python.if-else.executor": "Run",
+    "Python.iterator_generator.executor": "Run",
+    "Python.lamda.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.list_2.executor": "Run",
+    "Python.local&global.executor": "Run",
+    "Python.love.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.map.executor": "Run",
+    "Python.membership_operator.executor": "Run",
+    "Python.module.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.profit_loss.executor": "Run",
+    "Python.range.executor": "Run",
+    "Python.recursion.executor": "Run",
+    "Python.regex.executor": "Run",
+    "Python.return.executor": "Run",
+    "Python.set.executor": "ConcurrencyExecutor",
+    "Python.string.executor": "Run",
+    "Python.tuple.executor": "Run",
+    "Python.typecasting.executor": "Run",
+    "Python.while.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Pyhton_program",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyhton_program" />
@@ -153,6 +157,8 @@
       <workItem from="1751349042880" duration="5264000" />
       <workItem from="1751367102838" duration="2597000" />
       <workItem from="1751430247243" duration="5752000" />
+      <workItem from="1751565338137" duration="486000" />
+      <workItem from="1751956200438" duration="1405000" />
     </task>
     <task id="LOCAL-00001" summary="add new programs i learnt today">
       <option name="closed" value="true" />
@@ -185,15 +191,15 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pyhton_program$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1751018038898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pyhton_program$functional_programming.coverage" NAME="functional_programming Coverage Results" MODIFIED="1751368179305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pyhton_program$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1751367556295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pyhton_program$local_global.coverage" NAME="local&amp;global Coverage Results" MODIFIED="1751018412001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$range.coverage" NAME="range Coverage Results" MODIFIED="1751014053862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pyhton_program$list.coverage" NAME="list Coverage Results" MODIFIED="1751432203151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_program$local_global.coverage" NAME="local&amp;global Coverage Results" MODIFIED="1751018412001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_program$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1751367556295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_program$functional_programming.coverage" NAME="functional_programming Coverage Results" MODIFIED="1751368179305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_program$list.coverage" NAME="list Coverage Results" MODIFIED="1751957815492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$file2.coverage" NAME="file2 Coverage Results" MODIFIED="1751113259744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$main.coverage" NAME="main Coverage Results" MODIFIED="1751011042899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pyhton_program$exception.coverage" NAME="exception Coverage Results" MODIFIED="1751045533430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$iterator_generator.coverage" NAME="iterator_generator Coverage Results" MODIFIED="1751451679319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_program$exception.coverage" NAME="exception Coverage Results" MODIFIED="1751045533430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$bitwise_operator.coverage" NAME="bitwise_operator Coverage Results" MODIFIED="1751266987798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$typecasting.coverage" NAME="typecasting Coverage Results" MODIFIED="1751269460210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$return.coverage" NAME="return Coverage Results" MODIFIED="1751015690608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -208,6 +214,7 @@
     <SUITE FILE_PATH="coverage/Pyhton_program$filter.coverage" NAME="filter Coverage Results" MODIFIED="1751368702919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$module.coverage" NAME="module Coverage Results" MODIFIED="1751017355410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$for.coverage" NAME="for Coverage Results" MODIFIED="1751014346349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_program$regex.coverage" NAME="regex Coverage Results" MODIFIED="1751958280602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$if_else.coverage" NAME="if-else Coverage Results" MODIFIED="1751011012302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$while.coverage" NAME="while Coverage Results" MODIFIED="1751014540016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$membership_operator.coverage" NAME="membership_operator Coverage Results" MODIFIED="1751268740143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

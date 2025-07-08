@@ -30,6 +30,8 @@ if re.search(pattern,"andapple"):
     print("TRUE")
 else:
     print("FALSE")
+
+
 #3: sub (pattern,repl,string,count,flags)
 import re
 string = "I am Aman Patel"

@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c27afe1-1519-4687-bd6f-00a648c94544" name="Changes" comment="add new programs i learnt today">
-      <change afterPath="$PROJECT_DIR$/regex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +157,7 @@
       <workItem from="1751367102838" duration="2597000" />
       <workItem from="1751430247243" duration="5752000" />
       <workItem from="1751565338137" duration="486000" />
-      <workItem from="1751956200438" duration="1405000" />
+      <workItem from="1751956200438" duration="2175000" />
     </task>
     <task id="LOCAL-00001" summary="add new programs i learnt today">
       <option name="closed" value="true" />
@@ -214,7 +213,7 @@
     <SUITE FILE_PATH="coverage/Pyhton_program$filter.coverage" NAME="filter Coverage Results" MODIFIED="1751368702919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$module.coverage" NAME="module Coverage Results" MODIFIED="1751017355410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$for.coverage" NAME="for Coverage Results" MODIFIED="1751014346349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pyhton_program$regex.coverage" NAME="regex Coverage Results" MODIFIED="1751958280602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_program$regex.coverage" NAME="regex Coverage Results" MODIFIED="1751959058784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$if_else.coverage" NAME="if-else Coverage Results" MODIFIED="1751011012302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$while.coverage" NAME="while Coverage Results" MODIFIED="1751014540016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pyhton_program$membership_operator.coverage" NAME="membership_operator Coverage Results" MODIFIED="1751268740143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

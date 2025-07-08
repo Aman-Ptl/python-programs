@@ -13,9 +13,25 @@ if re.match(pattern,"appleandapple"):
 else:
     print("FALSE")
 
-#2: findall (pattern,string, flags)
 
+
+
+#2: findall (pattern,string, flags)
 import re
 pattern="AmanPatel"
 string=re.findall("Aman",pattern)
 print(string)
+
+
+#2: search (pattern,string, flags)
+import re
+pattern="apple"
+if re.search(pattern,"andapple"):
+    print("TRUE")
+else:
+    print("FALSE")
+#3: sub (pattern,repl,string,count,flags)
+import re
+string = "I am Aman Patel"
+pattern="Aman"
+print(re.sub(pattern,"Ananya",string,count=0,flags=0))
